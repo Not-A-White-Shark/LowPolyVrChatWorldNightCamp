@@ -56,7 +56,7 @@ Material:
     - _Float3: 0.9
     - _Foam: 1.79
     - _FoamDepth: 0.3
-    - _FoamFalloff: -13.09
+    - _FoamFalloff: -16.65
     - _FoamPower: 4
     - _FoamSmoothness: 0.3
     - _FoamSpecular: 0.3
@@ -69,8 +69,8 @@ Material:
     - _Specular: 0.1
     - _TessValue: 6
     - _WaterDepth: 0.99
-    - _WaterFalloff: -0.49
-    - _WaterSmoothness: 0.3
+    - _WaterFalloff: -0.31
+    - _WaterSmoothness: -1.31
     - _WaterSpecular: 0.3
     - _WavesAmount: 1
     - _WavesAmplitude: 0.01
