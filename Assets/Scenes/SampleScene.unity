@@ -746,6 +746,16 @@ PrefabInstance:
       propertyPath: Videos.Array.data[1].URL
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 114469339600057582, guid: 8af000ee88f7bbc47a1db2b181218c4d,
+        type: 3}
+      propertyPath: near
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114807856982718366, guid: 8af000ee88f7bbc47a1db2b181218c4d,
+        type: 3}
+      propertyPath: near
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 224235088686289882, guid: 8af000ee88f7bbc47a1db2b181218c4d,
         type: 3}
       propertyPath: m_LocalPosition.z
@@ -3699,19 +3709,6 @@ MonoBehaviour:
   RenderSkybox: {fileID: 0}
   portraitCameraPositionOffset: {x: 0, y: 0, z: 0}
   portraitCameraRotationOffset: {x: 0, y: 1, z: 0, w: -0.00000004371139}
---- !u!114 &393516903
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 393516897}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 229740497, guid: 4ecd63eff847044b68db9453ce219299, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  contentType: 1
 --- !u!1001 &399132363
 PrefabInstance:
   m_ObjectHideFlags: 0
