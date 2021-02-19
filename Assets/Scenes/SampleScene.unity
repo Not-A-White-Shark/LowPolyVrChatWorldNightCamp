@@ -667,7 +667,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Gain: 15
-  Far: 4.23
+  Far: 20
   Near: 0
   VolumetricRadius: 0
   EnableSpatialization: 1
