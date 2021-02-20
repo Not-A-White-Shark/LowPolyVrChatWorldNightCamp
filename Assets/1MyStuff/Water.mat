@@ -79,7 +79,7 @@ Material:
     - _FoamSmoothness: 1.32
     - _FoamSpecular: 9.79
     - _GlossMapScale: 1
-    - _Glossiness: 1
+    - _Glossiness: 0.887
     - _GlossyReflections: 1
     - _Metallic: 1
     - _Mode: 2
