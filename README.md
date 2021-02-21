@@ -29,7 +29,7 @@
 <h3>Toggable fire</h3>
 <img src="https://i.imgur.com/7Iz35Pq.png">
 <hr>
-<h4>In conclusion</h4>
+<h2>In conclusion</h2>
 <p>This is the best place to hangout with your friends</p>
 <img src="https://i.imgur.com/V4x2mFz.png">
 <p>Have fun!</p>
