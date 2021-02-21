@@ -13,20 +13,20 @@
 <h3>* A high quality mirror</h3>
 <img src="https://i.imgur.com/BfPDtEa.png">
 <hr>
-<h3>Objects that you can pick up</h3>
+<h3>* Objects that you can pick up</h3>
 <img src="https://i.imgur.com/5u2w7Vb.png">
 <hr>
-<h3>Working flashlights</h3>
+<h3>* Working flashlights</h3>
 <img src="https://i.imgur.com/JMWqj96.png">
 <img src="https://i.imgur.com/Y2QC23Q.png">
 <hr>
-<h3>Working candle</h3>
+<h3>* Working candle</h3>
 <img src="https://i.imgur.com/fC9OYsz.png">
 <hr>
-<h3>Grabable chairs</h3>
+<h3>* Grabable chairs</h3>
 <img src="https://i.imgur.com/wVFgdug.png">
 <hr>
-<h3>Toggable fire</h3>
+<h3>* Toggable fire</h3>
 <img src="https://i.imgur.com/7Iz35Pq.png">
 <hr>
 <h2>In conclusion</h2>
