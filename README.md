@@ -6,3 +6,7 @@
 <h2>Features</h2>
 <h3>* A campfire to hangout with friends</h3>
 <img src="https://i.imgur.com/7hpRL74.jpeg">
+<hr>
+<h3>* A low quality mirror</h3>
+<img src="https://i.imgur.com/gdxJeJf.png">
+
