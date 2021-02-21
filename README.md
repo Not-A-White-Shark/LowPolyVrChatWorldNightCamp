@@ -4,5 +4,5 @@
 <p> Make a nice looking world that can run smoothly on most computers. </p>
 <img src="https://i.imgur.com/UlyUkas.png">
 <h2>Features</h2>
-<h3>A campfire to hangout with friends</h3>
+<h3>* A campfire to hangout with friends</h3>
 <img src="https://i.imgur.com/7hpRL74.jpeg">
